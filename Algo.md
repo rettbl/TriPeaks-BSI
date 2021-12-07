@@ -34,6 +34,18 @@
 >
 > 
 > ```
+> liste_couleur [coeur,carreau,pique,trÃ¨fle]
+>liste_carte []
+>
+>struct Carte (
+>	int valeur
+>	char couleur
+>	Carte parent1
+>	Carte parent2
+>	Carte Enfant1
+>	Carte Enfant2
+>)
+> 
 > Carte maCarte 
 > pour couleur dans liste_couleur: 
 > entier i = 1 
