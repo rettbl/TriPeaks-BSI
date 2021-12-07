@@ -34,7 +34,7 @@
 >
 > 
 > ```
-> liste_couleur [coeur,carreau,pique,trÃ¨fle]
+> liste_couleur [coeur,carreau,pique,trefle]
 >liste_carte []
 >
 >struct Carte (
