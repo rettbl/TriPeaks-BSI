@@ -39,4 +39,5 @@
 > entier i = 1 
 > tant que i <= 13; i++ alors: 	
 > ​	maCarte.valeur = i 	
-> ​	maCarte.couleur = couleur liste_carte.add(maCarte) ```
+> ​	maCarte.couleur = couleur liste_carte.add(maCarte) 
+> ```
