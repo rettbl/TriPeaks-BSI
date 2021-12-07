@@ -9,8 +9,8 @@ This project is in correlation with my college course in BSI.
 
 > * Structure en pyramide 
 > * 6 éléments
->   * Format en arbre avec un nœud en commun à chaque 
 >   * 3 pyramide (pyramide1, pyramide2, pyramide3)
+>     * Format en arbre avec un nœud en commun à chaque 
 >   * 1 ligne de carte visible (ligneCarte)
 >   * 1 pile de carte (pioche)
 >     * Pile en **C**
