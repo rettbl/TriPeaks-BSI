@@ -1,5 +1,5 @@
 # TriPeaks
-This project is in correlation with my college course in BSI.
+This project is in correlation with us college course in BSI.
 
 # Projet C/Algo
 
