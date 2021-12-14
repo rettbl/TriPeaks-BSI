@@ -22,7 +22,7 @@
 > <u>**Fonctions :**</u>
 >
 > 1. Créer les cartes (un for dans un for)
->    1. Un carte = Valeur + couleur 
+>    1. Une carte = Valeur + couleur 
 > 2. Créer les 6 éléments 
 >    1. Voir fonction ajoutCarte
 >    2. Créer la pile de carte joué (carteJoue)
@@ -51,6 +51,6 @@
 > pour couleur dans liste_couleur: 
 > entier i = 1 
 > tant que i <= 13; i++ alors: 	
-> ​	maCarte.valeur = i 	
-> ​	maCarte.couleur = couleur liste_carte.add(maCarte) 
+>   maCarte.valeur = i 	
+>   maCarte.couleur = couleur liste_carte.add(maCarte) 
 > ```
