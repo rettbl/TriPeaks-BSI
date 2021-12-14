@@ -18,6 +18,7 @@
 > * Pour qu'une carte apparaissent, il faut que la carte du dessus n'ai plus d'enfant pour la cacher (1 ou 2 cartes)
 > * On considère toutes les cartes comme invisibles 
 >
+>
 > <u>**Fonctions :**</u>
 >
 > 1. Créer les cartes (un for dans un for)
