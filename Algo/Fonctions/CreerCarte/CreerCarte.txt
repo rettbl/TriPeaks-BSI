@@ -1,0 +1,22 @@
+creation struct Carte
+	int value
+
+tabCartes [52]
+
+for (0 -> 51)
+
+	for (1 -> 4)
+		1=carreau
+		2=trefle
+		3=pique
+		4=coeur
+	
+		for (1 -> 13)
+			name= couleur + numéro
+			Carte name
+			tabCarte[]=name
+
+
+tabCartesMelange = random(tabCartes)
+
+return tabCartesMelange
