@@ -17,7 +17,7 @@ return head_deck, head_discard
 
 display(head_peak,head_discard) ==> faire l'affichage
 
-check_input() ==> check orthographe, parcours la pyramide et check si state 1, name = input et value +- 1
+check_input(head_peak) ==> check orthographe, si "piocher" return piocher sinon parcours la pyramide et check si state 1, name = input et value +- 1
 return good_input
 
 choose(head_peak,head_deck,head_discard) ==> fait le choix de la carte et retire la carte de la liste
@@ -26,7 +26,7 @@ return mod_head_peak, mod_head_deck, mod_head_discard
 remove_card(head_peak,head_discard,cardToMove) ==> met l'état de la carte à 2 et la copie dans head_discard
 return mod_head_peak, mod_head_discard
 
-discard(head_deck, head_discard ) ==> retire la carte du deck et la copie dans head_discard
+discard(head_deck, head_discard,cardToMove) ==> retire la carte du deck et la copie dans head_discard
 return mod_head_deck, mod_head_discard
 
 check_win(topPeakL, topPeakM, topPeakR)
