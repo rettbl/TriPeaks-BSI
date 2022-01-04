@@ -28,8 +28,6 @@ Algo - check_input
  				head_discard = input_user;
 
  					if (head_discard = 1) {
-
- 						printf("Nice cock !")
  						return good_input;
 					}
 
